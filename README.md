@@ -1,5 +1,11 @@
 # ui_sederhana
 
+- Nama  : Yoga Rahmahadi
+- NIM   : 2041720155
+- Kelas : TI-3H
+
+![image.png]( {ui_sederhana_flutter/assets/Screenshot_1.jpg} )
+
 A new Flutter project.
 
 ## Getting Started
